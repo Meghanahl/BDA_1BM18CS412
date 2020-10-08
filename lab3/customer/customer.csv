@@ -1,0 +1,15 @@
+{"_id":{"$oid":"5f7eeaa4efbe81a963112a10"},"cust_id":1.0,"acc_bal":14000.0,"acc_type":"Z"}
+{"_id":{"$oid":"5f7eeabcefbe81a963112a11"},"cust_id":2.0,"acc_bal":13000.0,"acc_type":"Z"}
+{"_id":{"$oid":"5f7eeac0efbe81a963112a12"},"cust_id":1.0,"acc_bal":14000.0,"acc_type":"Z"}
+{"_id":{"$oid":"5f7eeac0efbe81a963112a13"},"cust_id":2.0,"acc_bal":13000.0,"acc_type":"Z"}
+{"_id":{"$oid":"5f7eead5efbe81a963112a14"},"cust_id":3.0,"acc_bal":15000.0,"acc_type":"y"}
+{"_id":{"$oid":"5f7eeaf1efbe81a963112a15"},"cust_id":4.0,"acc_bal":16000.0,"acc_type":"Y"}
+{"_id":{"$oid":"5f7eeb2aefbe81a963112a16"},"cust_id":2.0,"acc_bal":16000.0,"acc_type":"Y"}
+{"_id":{"$oid":"5f7eeb38efbe81a963112a17"},"cust_id":3.0,"acc_bal":14000.0,"acc_type":"Z"}
+{"_id":{"$oid":"5f7eeb3befbe81a963112a18"},"cust_id":1.0,"acc_bal":14000.0,"acc_type":"Z"}
+{"_id":{"$oid":"5f7eeb3befbe81a963112a19"},"cust_id":2.0,"acc_bal":13000.0,"acc_type":"Z"}
+{"_id":{"$oid":"5f7eeb3befbe81a963112a1a"},"cust_id":3.0,"acc_bal":15000.0,"acc_type":"y"}
+{"_id":{"$oid":"5f7eeb3befbe81a963112a1b"},"cust_id":4.0,"acc_bal":16000.0,"acc_type":"Y"}
+{"_id":{"$oid":"5f7eeb3cefbe81a963112a1c"},"cust_id":1.0,"acc_bal":15000.0,"acc_type":"Z"}
+{"_id":{"$oid":"5f7eeb3cefbe81a963112a1d"},"cust_id":2.0,"acc_bal":16000.0,"acc_type":"Y"}
+{"_id":{"$oid":"5f7eeb3cefbe81a963112a1e"},"cust_id":3.0,"acc_bal":14000.0,"acc_type":"Z"}
