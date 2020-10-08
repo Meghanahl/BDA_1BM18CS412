@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5f7ed6d7dbeb99b8ba636ab0"},"Rollno":10.0,"name":"Meghana H L","age":21.0,"contactno":"7899663196","Email-id":"meghanahlgowda@gmail.com"}
+{"_id":{"$oid":"5f7ed704dbeb99b8ba636ab1"},"Rollno":11.0,"name":"FEM","age":21.0,"contactno":"9899645196","Email-id":"kushi.cs18@bmsce.ac.in"}
+{"_id":{"$oid":"5f7ed78ddbeb99b8ba636ab2"},"Rollno":12.0,"name":"nisha","age":21.0,"contactno":"6899645196","Email-id":"nisha.cs18@bmsce.ac.in"}
+{"_id":{"$oid":"5f7ed7a2dbeb99b8ba636ab3"},"Rollno":13.0,"name":"disha","age":21.0,"contactno":"6899645196","Email-id":"disha.cs18@bmsce.ac.in"}
